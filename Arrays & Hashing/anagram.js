@@ -7,9 +7,6 @@ const s = "racecar"
 const t= "carrace"
 
 
-
-
-
 function isAnagram(s, t) {
     let s1 = s.split("").sort().join("");
     let t1 = t.split("").sort().join("")
