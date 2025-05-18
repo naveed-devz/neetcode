@@ -21,6 +21,7 @@
  - https://lnkd.in/dZAMtWYM
 5. Longest Palindromic Substring
  - https://lnkd.in/dnk7bi7m
+6 Find all permutations of a string
 
 𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁
 1. Reverse Linked List
